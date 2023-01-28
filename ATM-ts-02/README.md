@@ -11,8 +11,9 @@ To test run the code, use following credentials to login:
 Account ID: '19900'
 PIN Code: '3321'
 
-Usage: npm i -g bankingatm_ts@latest
+Usage: 
+            npm i -g bankingatm_ts@latest
 
             OR
-
-        npx bankingatm_ts@latest
+            
+            npx bankingatm_ts@latest
